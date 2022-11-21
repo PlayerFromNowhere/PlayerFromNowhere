@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PlayerFromNowhere
 - 👀 I’m interested in Art
 - 🌱 I’m currently learning Wordpress
-- 💞️ I’m looking to collaborate on earth
+
 - 📫 How to reach me dputrayoga@gmail.com
 
 <!---
